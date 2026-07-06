@@ -84,8 +84,8 @@ http://localhost:5028/swagger
 
 | Usuario | Contraseña | Rol |
 |---|---|---|
-| `admin` | `Admin123!` | Admin |
-| `cliente1` | `Cliente123!` | Customer |
+| `Fernando Mendoza` | `Admin*123` | Admin |
+| `Irving Zambrano` | `Cliente*123` | Customer |
 
 ## Productos semilla
 
